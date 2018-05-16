@@ -1,6 +1,6 @@
 <?php 
 
-echo "Olá mundo!CARACA MANÉ!";
-echo "BOA NOITE DESGRAÇA";
+echo "Olá mundo!CARACA MANÉ! BIRL!";
+echo "BOA NOITE DESGRAÇA E AMANHÃ BOM DIA";
 
  ?>
